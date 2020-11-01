@@ -5,6 +5,8 @@ public class Superman {
 
         System.out.println("Bruh of Steel needs love too");
 
+        System.out.println("He in Metropolis");
+
     }
 
 }
