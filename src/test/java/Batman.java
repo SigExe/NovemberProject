@@ -5,6 +5,8 @@ public class Batman {
 
         System.out.println("I'll catch you, Joker, lmao");
 
+        System.out.println("Gotham lit");
+
     }
 
 }
